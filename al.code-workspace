@@ -4,6 +4,9 @@
       "path": "Shopify"
     },
     {
+      "path": "Shopify.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
