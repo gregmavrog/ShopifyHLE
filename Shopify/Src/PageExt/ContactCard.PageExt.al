@@ -1,4 +1,4 @@
-pageextension 70001 "Contact Card" extends "Contact Card"
+pageextension 70001 "HLE Contact Card" extends "Contact Card"
 {
     layout
     {
@@ -27,6 +27,6 @@ pageextension 70001 "Contact Card" extends "Contact Card"
                 ToolTip = 'Specifies the value of the HLE Emailing No field.', Comment = '%';
             }
         }
-        
+
     }
 }

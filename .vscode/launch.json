@@ -10,7 +10,7 @@
             "tenant": "01f76aba-17c1-4568-b9b3-0fb6d9107b5c",
             "environmentName": "Shopify_HLE",
             "startupCompany": "Shopify",
-            "schemaUpdateMode": "Synchronize",
+            "schemaUpdateMode": "ForceSync",
             "breakOnError": true,
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
